@@ -1,2 +1,2 @@
-# treinamento-h2ia
-Repository created to learn how to work with AI.
+# Treinamento-h2ia 🤖
+Repositorio criado para aprender a trabalhar com AI utilizando python . 
